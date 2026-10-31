@@ -1,0 +1,6 @@
+{
+  "name": "MonoSound",
+  "description": "A fluent monochrome music downloader and player for SoundCloud and YouTube. Search tracks, switch sources, download to phone storage, and play offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

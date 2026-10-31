@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MonoSound</string>
+    <string name="search_placeholder">Search track title, artist, or paste URL…</string>
+    <string name="source_youtube">YouTube</string>
+    <string name="source_soundcloud">SoundCloud</string>
+    <string name="download_button">Download</string>
+    <string name="downloading">Downloading…</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="library_title">Downloaded Music</string>
+    <string name="no_downloads">No music downloaded yet</string>
+    <string name="no_downloads_sub">Search songs from SoundCloud or YouTube above to download directly to your phone.</string>
+</resources>
